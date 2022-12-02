@@ -1,2 +1,2 @@
 # pointers-arithmetic
-Introduction to working with pointerd and arithmetics. 
+Introduction to working with pointers and arithmetics. 
